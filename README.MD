@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # my-chat-bot
 Demonstrate the core capabilities of the Microsoft Bot Framework
 
@@ -92,6 +91,5 @@ To learn more about deploying a bot to Azure, see [Deploy your bot to Azure][40]
 [32]: https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-basics?view=azure-bot-service-4.0
 [40]: https://aka.ms/azuredeployment
 [41]: ./PREREQUISITES.md
-=======
+
 # Joe_Server
->>>>>>> f6fe9bd7fe378a5d946ac761145f9e7c651a67a2
